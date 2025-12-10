@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Regella Krishna Saketh 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RKSAKETH&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RKSAKETH&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -24,9 +24,9 @@
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### **Database & Cloud**
+### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -34,17 +34,11 @@
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RKSAKETH&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKSAKETH&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
+> Note: Using a working mirror because the original stats API is rate-limited.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RKSAKETH&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-kappa-five-12.vercel.app/api?username=RKSAKETH&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-kappa-five-12.vercel.app/api/top-langs/?username=RKSAKETH&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,12 +46,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RKSAKETH&theme=onedark&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RKSAKETH&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RKSAKETH&theme=react-dark" />
@@ -65,17 +59,23 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned Projects  
+> These now correctly redirect to your GitHub repos (no deployment needed)
 
 <p align="left">
+
   <a href="https://github.com/RKSAKETH/ClearConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RKSAKETH&repo=ClearConnect&theme=tokyonight" />
+    <img src="https://github-readme-stats-kappa-five-12.vercel.app/api/pin/?username=RKSAKETH&repo=ClearConnect&theme=tokyonight" />
   </a>
+
   <a href="https://github.com/RKSAKETH/TradeWave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RKSAKETH&repo=TradeWave&theme=tokyonight" />
+    <img src="https://github-readme-stats-kappa-five-12.vercel.app/api/pin/?username=RKSAKETH&repo=TradeWave&theme=tokyonight" />
   </a>
+
 </p>
 
 ---
 
-### ⭐ Feel free to explore my repositories and connect!
+## 🌟 Explore My Work  
+Check out all my repositories here:  
+**https://github.com/RKSAKETH**
