@@ -69,7 +69,7 @@
   </a>
 
   <a href="https://github.com/RKSAKETH/TradeWave">
-    <img src="https://github-readme-stats-kappa-five-12.vercel.app/api/pin/?username=RKSAKETH&repo=TradeWave&theme=tokyonight" />
+    <img src="https://github-readme-stats-kappa-five-12.vercel.app/api/pin/?username=RKSAKETH&repo=Zerodha&theme=tokyonight" />
   </a>
 
 </p>
